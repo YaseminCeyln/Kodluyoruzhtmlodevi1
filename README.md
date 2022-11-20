@@ -16,3 +16,5 @@
 </html>
 
 <a href="https://app.patika.dev/yaseminceyln">Patika profilim</a>
+
+<!--Kodluyoruz'a teşekkürler-->
