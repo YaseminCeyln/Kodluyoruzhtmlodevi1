@@ -1,20 +1,50 @@
 <html>
+   <head>
+     <title>kodluyoruzwebsayfasi1</title>
    </head>
    <body>
-     	<h1> Yasemin CEYLAN </h1>
+<!--birinci odevin baslangici-->
+      
+      <h1> Yasemin CEYLAN </h1>
 		<h2> Hakkımda: </h2>
-<p> Merhaba! ben Yasemin, 21 yaşındayım. Grafiker ve Handpoke dövme sanatçısıyım. Kodluyoruz Front-End Eğitimi ile de kendimi yazılım konusunda geliştiriyorum. </p>
+<p> Merhaba! Ben Yasemin, 21 yaşındayım. Grafiker ve Handpoke dövme sanatçısıyım. Kodluyoruz Front-End Eğitimi ile de kendimi yazılım konusunda geliştiriyorum. </p>
 
-<h2> Sevdiğim Diziler </h2>
-	<ul>
-<li> Daredevil </li>
-<li> Frontier </li>
-<li> See </li>
-	</ul>
+<h2> İlgi Alanlarım </h2>
+
+<ol>
+      <Li><strong>Dizi:</strong></li>
+   <ul>
+      <li><a href="https://www.imdb.com/title/tt3322312/">Daredevil </li></a>
+      <li> Naruto </li>
+      <li> Frontier </li>
+   </ul>
+
+<!--ikinci odevin baslangici-->
+
+   <li><strong>Film:</strong></li>
+   <ul>
+      <li><a href="https://www.imdb.com/title/tt0434409/">V for Vendetta</li></a>
+      <li> Star Wars </li>
+      <li> Pirates of the Caribbean </li>
+   </ul>
+
+   <li><strong>Kitap:</strong> </li>
+   <ul>
+      <li><a href="https://www.goodreads.com/series/59131-assassin-s-creed">Assassin's Creed Series </li></a>
+      <li> Daredevil Comics </li>
+      <li> Bilinmeyen Bir Kadının Mektubu </li>
+   </ul>
+</ol>
+
+<h2>Sevdiğim Diziler</h2>
+
+<h3>Naruto</h3> 
+<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpeg" width="300" title="Naruto (2002-2007)"/>
 
    </body>
 </html>
 
-<a href="https://app.patika.dev/yaseminceyln">Patika profilim</a>
+
+<h4><a href="https://app.patika.dev/yaseminceyln">Patika profilim</a></h4>
 
 <!--Kodluyoruz'a teşekkürler-->
