@@ -1,11 +1,10 @@
 <html>
-   <head>
-     <title>kodluyoruzwebsayfasi1</title>
    </head>
    <body>
+
 <!--birinci odevin baslangici-->
       
-      <h1> Yasemin CEYLAN </h1>
+<h1> Yasemin CEYLAN </h1>
 		<h2> Hakkımda: </h2>
 <p> Merhaba! Ben Yasemin, 21 yaşındayım. Grafiker ve Handpoke dövme sanatçısıyım. Kodluyoruz Front-End Eğitimi ile de kendimi yazılım konusunda geliştiriyorum. </p>
 
